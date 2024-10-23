@@ -5,7 +5,7 @@ build:
     - "libgl1-mesa-glx"
   python_packages:
     - "comfy-cli==1.2.3"
-    - "websocket-client==1.6.4"
+    - "websocket-client==1.8.0"
     - "accelerate==0.23.0"
     - "opencv-python==4.10.0.84"
     - "boto3==1.35.9"
@@ -28,4 +28,3 @@ build:
     - "simpleeval==0.9.13"
     - "imageio-ffmpeg==0.5.1"
     - "pypng==0.20220715.0"
-    - "websocket==13.1"
